@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @iriskc
+- 👋 Hi, I’m @345ucgeni
 - 👀 I’m interested in artificial intelligence
 - 🌱 I’m currently learning C++
 - 📫 How to reach me: 345ucgeni#6160 (discord)
