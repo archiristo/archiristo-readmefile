@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @345ucgeni
-- 👀 I’m interested in artificial intelligence
+- 👀 I’m interested in artificial intelligence and web development
 - 🌱 I am currently improving myself in Python 
-- 🌱 I am currently learning C# and Javascript
+- 🌱 I am currently learning PHP
 - 📫 How to reach me: 345ucgeni#6160 (discord)
 
 <!---
