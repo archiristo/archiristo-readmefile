@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @345ucgeni
-- 👀 I’m interested in artificial intelligence and web development
+- 👀 I’m interested in artificial intelligence
 - 🌱 I am currently improving myself in Python 
-- 🌱 I am currently learning PHP
-- 📫 How to reach me: 345ucgeni#6160 (discord)
+- 🌱 I am currently learning C++
+- 📫 How to reach me: prwsoxi#6160 (discord)
 
 <!---
 iriskc/iriskc is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
