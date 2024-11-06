@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @345ucgeni
-- 👀 I’m interested in artificial intelligence
-- 🌱 I am currently improving myself in Python 
-- 🌱 I am currently learning C++
-- 📫 How to reach me: prwsoxi#6160 (discord)
+- 👀 Junior in AI Eng.
+- 🌱 Python, C++ and Java
+- 📫 How to reach me: 
 
 <!---
 iriskc/iriskc is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
