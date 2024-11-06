@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @345ucgeni
 - 👀 Junior in AI Eng.
 - 🌱 Python, C++ and Java
-- 📫 How to reach me: 
+- 📫 How to reach me: via e-mail, iltriangolo345@outlook.com
 
 <!---
 iriskc/iriskc is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
