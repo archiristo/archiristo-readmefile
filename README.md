@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @345ucgeni
-- 👀 Junior in AI Eng.
+- 👀 Junior in AI Engineering
 - 🌱 Python, C++ and Java
 - 📫 How to reach me: via e-mail, iltriangolo345@outlook.com
 
