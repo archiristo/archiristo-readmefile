@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @archiristo
 - 👀 Junior in AI Engineering
-- 🌱 Python, C# and Java
+- 🌱 Python, C#, C++ and Java
 - 👩‍💻 Currently working on Computer Graphics, Robotics and Artificial Intelligence
-- 📫 How to reach me: via e-mail, iltriangolo345@outlook.com
+- 📫 How to reach me: via e-mail, iriskc27@gmail.com
